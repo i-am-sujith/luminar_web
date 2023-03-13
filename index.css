@@ -1,0 +1,130 @@
+* {
+    box-sizing: border-box;
+}
+
+#card_div {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    padding-left: 100px;
+}
+
+input,
+textarea,
+select {
+    width: 90%;
+    border: 0px;
+}
+
+
+#exampleModal {
+    height: 600px;
+}
+
+textarea {
+    height: 100px;
+}
+
+body {
+    background-color: rgb(237, 228, 228);
+}
+
+
+
+#m1 {
+    width: 300px;
+    height: 60px;
+
+}
+
+#m2 {
+    height: 600px;
+}
+
+#u2 {
+    min-height: 600px;
+}
+
+#b1 {
+    border-radius: 50px;
+    background-color: rgb(92, 8, 170);
+    height: 65px;
+    width: 200px;
+    font-size: medium;
+    font-weight: bold;
+}
+
+#d2 {
+    text-align: start;
+}
+
+#d2 h1 {
+    font-size: 60px;
+}
+
+#b5 {
+    width: 100%;
+    height: 600px;
+    padding-top: 30px;
+    background-color: white;
+
+}
+
+#y2 {
+    width: 100%
+}
+
+#y3,
+#y4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#y4 img {}
+
+#y2 h2 {
+    color: rgb(92, 8, 170);
+}
+
+#p2 {
+    color: rgb(92, 8, 170);
+    font-size: larger;
+}
+
+#course_row {
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#courses {
+    min-height: 360px;
+    width: 80%;
+    text-align: center;
+    background-color: rgb(237, 228, 228);
+    padding-top: 50px;
+}
+
+#courses img {
+    height: 350px;
+}
+
+#course2 {
+    padding: 2%;
+    text-align: left;
+    background-color: rgb(255, 255, 255);
+}
+
+#courses h2,
+h5 {
+    color: rgb(108, 8, 126);
+
+}
+
+#contact_head {
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+}
